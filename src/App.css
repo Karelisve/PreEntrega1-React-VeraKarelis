@@ -48,6 +48,10 @@
   color: white;
   background-color:  rgb(131, 24, 68);
 }
+
+.barra{
+  padding-right: 0;
+}
 /* ____________________________________________________________ */
 /*Estilos ItemListContainer*/
 

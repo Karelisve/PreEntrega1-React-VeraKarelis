@@ -20,7 +20,7 @@ function NavBar() {
           </Nav>
         <Form inline>
             <Row>
-            <Col>
+            <Col className='barra'>
                 <Form.Control
                 type="text"
                 placeholder="Macetas color rosa"
